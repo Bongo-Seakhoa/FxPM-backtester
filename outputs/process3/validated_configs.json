@@ -1,0 +1,257 @@
+{
+  "AUDUSD": {
+    "symbol": "AUDUSD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1019.07,
+    "train_sharpe": 10.08,
+    "val_return": 83.46,
+    "val_sharpe": 20.07,
+    "robustness_ratio": 0.082,
+    "is_validated": true
+  },
+  "EURUSD": {
+    "symbol": "EURUSD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1547.46,
+    "train_sharpe": 9.32,
+    "val_return": 73.84,
+    "val_sharpe": 12.86,
+    "robustness_ratio": 0.048,
+    "is_validated": true
+  },
+  "GBPUSD": {
+    "symbol": "GBPUSD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1414.61,
+    "train_sharpe": 9.53,
+    "val_return": 64.47,
+    "val_sharpe": 11.33,
+    "robustness_ratio": 0.046,
+    "is_validated": true
+  },
+  "NZDUSD": {
+    "symbol": "NZDUSD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 648.96,
+    "train_sharpe": 9.97,
+    "val_return": 86.6,
+    "val_sharpe": 20.64,
+    "robustness_ratio": 0.133,
+    "is_validated": true
+  },
+  "USDBRL": {
+    "symbol": "USDBRL",
+    "timeframe": "H1",
+    "strategy": "VolatilityBreakoutStrategy",
+    "optimized_params": {
+      "atr_period": 20,
+      "breakout_mult": 1.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 689.27,
+    "train_sharpe": 4.9,
+    "val_return": 54.5,
+    "val_sharpe": 5.96,
+    "robustness_ratio": 0.079,
+    "is_validated": true
+  },
+  "USDCAD": {
+    "symbol": "USDCAD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1392.58,
+    "train_sharpe": 10.44,
+    "val_return": 65.34,
+    "val_sharpe": 12.83,
+    "robustness_ratio": 0.047,
+    "is_validated": true
+  },
+  "USDCHF": {
+    "symbol": "USDCHF",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1563.92,
+    "train_sharpe": 12.11,
+    "val_return": 53.54,
+    "val_sharpe": 14.42,
+    "robustness_ratio": 0.034,
+    "is_validated": true
+  },
+  "USDJPY": {
+    "symbol": "USDJPY",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1922.94,
+    "train_sharpe": 11.12,
+    "val_return": 56.58,
+    "val_sharpe": 18.75,
+    "robustness_ratio": 0.029,
+    "is_validated": true
+  },
+  "USDMXN": {
+    "symbol": "USDMXN",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1946.36,
+    "train_sharpe": 9.05,
+    "val_return": 74.27,
+    "val_sharpe": 10.19,
+    "robustness_ratio": 0.038,
+    "is_validated": true
+  },
+  "USDNOK": {
+    "symbol": "USDNOK",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 10,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 540.53,
+    "train_sharpe": 13.46,
+    "val_return": 6.57,
+    "val_sharpe": 4.84,
+    "robustness_ratio": 0.012,
+    "is_validated": true
+  },
+  "USDPLN": {
+    "symbol": "USDPLN",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1655.52,
+    "train_sharpe": 9.41,
+    "val_return": 49.03,
+    "val_sharpe": 11.94,
+    "robustness_ratio": 0.03,
+    "is_validated": true
+  },
+  "USDSGD": {
+    "symbol": "USDSGD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 644.59,
+    "train_sharpe": 9.42,
+    "val_return": 57.35,
+    "val_sharpe": 14.29,
+    "robustness_ratio": 0.089,
+    "is_validated": true
+  },
+  "USDZAR": {
+    "symbol": "USDZAR",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1667.18,
+    "train_sharpe": 9.49,
+    "val_return": 57.62,
+    "val_sharpe": 9.16,
+    "robustness_ratio": 0.035,
+    "is_validated": true
+  },
+  "XAGUSD": {
+    "symbol": "XAGUSD",
+    "timeframe": "H1",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 7,
+      "multiplier": 2.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 1858.33,
+    "train_sharpe": 9.01,
+    "val_return": 97.41,
+    "val_sharpe": 21.49,
+    "robustness_ratio": 0.052,
+    "is_validated": true
+  },
+  "XAUUSD": {
+    "symbol": "XAUUSD",
+    "timeframe": "M30",
+    "strategy": "SupertrendStrategy",
+    "optimized_params": {
+      "atr_period": 10,
+      "multiplier": 3.0,
+      "sl_atr_mult": 1.5,
+      "tp_atr_mult": 3.0
+    },
+    "train_return": 674.19,
+    "train_sharpe": 20.8,
+    "val_return": 30.46,
+    "val_sharpe": 21.29,
+    "robustness_ratio": 0.045,
+    "is_validated": true
+  }
+}

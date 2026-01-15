@@ -1,0 +1,17 @@
+symbol,timeframe,strategy,category,total_trades,win_rate,total_return_pct,max_drawdown_pct,profit_factor,sharpe_ratio,expectancy_pips,composite_score
+AUDUSD,H1,SupertrendStrategy,trend,59,91.53,171.33,1.05,20.77,27.4,37.23,98.73
+EURUSD,H1,SupertrendStrategy,trend,88,93.18,362.67,1.08,22.32,24.22,40.39,98.98
+GBPUSD,H1,SupertrendStrategy,trend,98,94.9,482.67,1.07,36.79,25.13,51.73,99.23
+NZDUSD,H1,SupertrendStrategy,trend,50,90.0,127.68,2.06,16.82,26.22,35.44,98.5
+USDBRL,H1,VolatilityBreakoutStrategy,breakout,245,51.02,232.8,8.46,1.92,4.82,191.76,75.85
+USDCAD,H1,SupertrendStrategy,trend,72,88.89,217.48,1.07,15.04,22.84,39.33,98.33
+USDCHF,H1,SupertrendStrategy,trend,80,88.75,262.68,1.07,18.59,23.39,34.24,98.31
+USDJPY,H1,SupertrendStrategy,trend,78,91.03,274.17,2.04,23.9,25.13,77.45,98.65
+USDMXN,H1,SupertrendStrategy,trend,103,91.26,457.96,1.11,17.54,21.14,893.02,98.69
+USDNOK,H1,SupertrendStrategy,trend,35,85.71,70.2,1.05,9.79,20.96,535.2,97.44
+USDPLN,H1,SupertrendStrategy,trend,81,90.12,280.96,1.04,18.68,23.56,219.86,98.52
+USDSGD,H1,SupertrendStrategy,trend,55,89.09,139.81,1.17,15.01,24.49,33.25,98.36
+USDTRY,D1,DonchianBreakoutStrategy,breakout,20,65.0,16.53,5.46,3.17,9.12,7220.25,64.12
+USDZAR,H1,SupertrendStrategy,trend,69,88.41,198.74,1.07,13.82,22.46,973.67,98.26
+XAGUSD,H1,SupertrendStrategy,trend,84,90.48,313.6,1.01,20.87,23.38,323.42,98.57
+XAUUSD,M30,SupertrendStrategy,trend,119,91.6,674.19,2.02,28.76,20.8,1011.41,98.74

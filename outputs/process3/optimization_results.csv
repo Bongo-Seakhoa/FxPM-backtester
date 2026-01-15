@@ -1,0 +1,17 @@
+symbol,timeframe,strategy,train_return,train_sharpe,val_return,val_sharpe,robustness_ratio,is_validated
+AUDUSD,H1,SupertrendStrategy,1019.07,10.08,83.46,20.07,0.082,True
+EURUSD,H1,SupertrendStrategy,1547.46,9.32,73.84,12.86,0.048,True
+GBPUSD,H1,SupertrendStrategy,1414.61,9.53,64.47,11.33,0.046,True
+NZDUSD,H1,SupertrendStrategy,648.96,9.97,86.6,20.64,0.133,True
+USDBRL,H1,VolatilityBreakoutStrategy,689.27,4.9,54.5,5.96,0.079,True
+USDCAD,H1,SupertrendStrategy,1392.58,10.44,65.34,12.83,0.047,True
+USDCHF,H1,SupertrendStrategy,1563.92,12.11,53.54,14.42,0.034,True
+USDJPY,H1,SupertrendStrategy,1922.94,11.12,56.58,18.75,0.029,True
+USDMXN,H1,SupertrendStrategy,1946.36,9.05,74.27,10.19,0.038,True
+USDNOK,H1,SupertrendStrategy,540.53,13.46,6.57,4.84,0.012,True
+USDPLN,H1,SupertrendStrategy,1655.52,9.41,49.03,11.94,0.03,True
+USDSGD,H1,SupertrendStrategy,644.59,9.42,57.35,14.29,0.089,True
+USDTRY,D1,DonchianBreakoutStrategy,17.79,10.51,0.74,0.0,0.042,False
+USDZAR,H1,SupertrendStrategy,1667.18,9.49,57.62,9.16,0.035,True
+XAGUSD,H1,SupertrendStrategy,1858.33,9.01,97.41,21.49,0.052,True
+XAUUSD,M30,SupertrendStrategy,674.19,20.8,30.46,21.29,0.045,True

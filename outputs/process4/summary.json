@@ -1,0 +1,15 @@
+{
+  "process": "Live Simulation (TEST DATA)",
+  "symbols_simulated": 15,
+  "total_trades": 605,
+  "win_rate": 69.59,
+  "total_pnl_dollars": 78764.72,
+  "max_drawdown_pct": 5.27,
+  "time_sec": 5352.44,
+  "validation_checks": {
+    "has_trades": true,
+    "positive_pnl": true,
+    "acceptable_drawdown": true
+  },
+  "all_passed": true
+}

@@ -1,0 +1,16 @@
+symbol,timeframe,strategy,test_bars,total_trades,win_rate,total_return_pct,max_drawdown_pct
+AUDUSD,H1,SupertrendStrategy,3690,34,76.47,51.96,2.12
+EURUSD,H1,SupertrendStrategy,3690,43,72.09,61.2,2.07
+GBPUSD,H1,SupertrendStrategy,3689,37,78.38,61.95,2.08
+NZDUSD,H1,SupertrendStrategy,3687,32,65.62,33.47,3.32
+USDBRL,H1,VolatilityBreakoutStrategy,1094,75,49.33,38.26,5.1
+USDCAD,H1,SupertrendStrategy,3689,46,76.09,74.04,2.12
+USDCHF,H1,SupertrendStrategy,3689,31,70.97,39.18,2.06
+USDJPY,H1,SupertrendStrategy,3690,52,71.15,76.54,2.06
+USDMXN,H1,SupertrendStrategy,3538,60,71.67,88.88,3.16
+USDNOK,H1,SupertrendStrategy,2261,27,70.37,32.61,2.12
+USDPLN,H1,SupertrendStrategy,3533,42,57.14,30.9,5.27
+USDSGD,H1,SupertrendStrategy,3534,24,70.83,28.18,2.14
+USDZAR,H1,SupertrendStrategy,3681,40,70.0,49.97,3.19
+XAGUSD,H1,SupertrendStrategy,3498,42,80.95,80.66,1.01
+XAUUSD,M30,SupertrendStrategy,7033,20,90.0,39.83,1.01
